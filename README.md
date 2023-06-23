@@ -1,1 +1,1 @@
-DJANGO CRUD OPERATIONS
+Something something django something
